@@ -1,5 +1,4 @@
 import datetime, sys, os, json
-# Here starts the program   
 def getId():
     temps = "task.json"
     if os.path.getsize(temps) == 0:
