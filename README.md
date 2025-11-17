@@ -3,7 +3,7 @@ This project is a straightforward Command-Line Interface (CLI) Task Tracker buil
 ## 🪄 Features 
 - ➕ **Add**
   
-  Creates a new task and assigns a unique ID.
+  Creates a new task and assigns an ID.
 - 🪓 **Delete**
   
   Permanently removes a task from the list.
